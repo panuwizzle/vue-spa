@@ -1,6 +1,6 @@
 # vue-spa
 
-> A Vue.js project
+> Basically, it's the code from following the instruction from https://scotch.io/tutorials/how-to-build-a-simple-single-page-application-using-vue-2-part-2 with a little adjustment and a simple lab with Vuex in the component.
 
 ## Build Setup
 
